@@ -155,7 +155,7 @@ body {
 
 .header {
   background-image: radial-gradient(rgba(255, 255, 255, 0.075), rgba(0, 0, 0, 0.9)),
-    url("assets/2.jpeg");
+    url("assets/2.webp");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
